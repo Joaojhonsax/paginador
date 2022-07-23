@@ -1,3 +1,3 @@
 # paginador
 
-https://joaojhonsax.github.io/paginador/index.html
+https://joaojhonsax.github.io/paginador/
