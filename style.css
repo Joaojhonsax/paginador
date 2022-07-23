@@ -1,0 +1,24 @@
+.paginador{
+    display: inline-block;
+}
+.pagina li{
+    color: #070401;
+    border: 1px solid rgb(129, 115, 115);
+    display: inline-block;
+    padding: 8px 16px;    
+}
+.paginador li{
+    color: #070401;
+    border: 1px solid rgb(129, 115, 115);
+    display: inline-block;
+    padding: 8px 16px;    
+}
+.paginador li:hover {
+    background-color: rgb(129, 115, 115);
+}
+body {
+    text-align: center;
+}
+.h2{
+    font-family: 'Times New Roman', Times, serif;
+}
